@@ -1,0 +1,30 @@
+
+🔢 Even and Odd Numbers Program
+This program:
+
+Accepts a number (or a range of numbers) from the user.
+
+Checks whether each number is even (divisible by 2) or odd (not divisible by 2).
+
+Displays a message for each number indicating if it's even or odd.
+
+Example Functionality:
+
+Input: 7
+
+Output: 7 is an odd number
+
+➕ Sum of All Integers Program
+This program:
+
+Takes an upper limit number from the user.
+
+Calculates the sum of all integers from 1 to that number using a for loop.
+
+Displays the result.
+
+Example Functionality:
+
+Input: 5
+
+Output: Sum of numbers from 1 to 5 is 15
